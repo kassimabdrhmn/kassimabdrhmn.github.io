@@ -13,6 +13,10 @@ I am a recent Software Engineering graduate eager to start a career in cybersecu
 | Threat Intelligence Feed Integration          | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/SIEM%20Implementation%20and%20Log%20Monitoring">Threat Intelligence Feed System Integration with Microsoft Sentinel</a>|
 | Malware Analysis                              | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Malware%20Analysis%20in%20Isolated%20Environment">Malware Dissection in a Virtual Machine</a>|
 | Home Network Simulation                       | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Home%20Network%20Simulation">Home Network in Cisco Packet Tracer</a>|
+| External Network Penetration Test             | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/External%20Network%20Penetration%20Test">External Network Penetration Test</a>|
+| Phishing Campaign Simulation                  | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Phishing%20Campaign%20Simulation">Phishing Campaign Simulation</a>|
+| Red Team vs. Blue Team Capture the Flag (CTF) | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Red%20Team%20vs.%20Blue%20Team%20Capture%20the%20Flag%20(CTF)%20Simulation">Red Team vs. Blue Team Capture the Flag (CTF)</a>|
+| Web Application Penetration Test              | <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Web%20Application%20Penetration%20Test">Web Application Penetration Test</a>|
 
 ## Certifications
 - Google Cyber Security Certificate
