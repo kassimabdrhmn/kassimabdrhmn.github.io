@@ -1,4 +1,4 @@
-# Hello, I'm Kassim Abdurahman
+# Kassim Abdurahman - Junior Cyber Security Professional
 <a href="https://linkedin.com/in/kassim-abdurahman-65a234157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Objective
