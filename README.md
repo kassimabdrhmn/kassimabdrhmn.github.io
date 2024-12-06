@@ -1,10 +1,9 @@
 # Hello, I'm Kassim Abdurahman
 <a href="https://linkedin.com/in/kassim-abdurahman-65a234157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Objective
 
-## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a recent graduate with a Bachelor's degree in Software Engineering, eager to transition into the field of cybersecurity. My primary interest lies in red teaming, ethical hacking, and penetration testing. I am drawn to cybersecurity because it allows me to utilize my problem-solving skills in a high-stakes environment, think creatively like an attacker, and contribute to making systems more secure. I am excited about the challenge of uncovering vulnerabilities before malicious actors can exploit them, and I am passionate about helping organizations build robust defenses against ever-evolving threats.
 
 ## Skills
 | Skill                                         | Associated Project                       |
