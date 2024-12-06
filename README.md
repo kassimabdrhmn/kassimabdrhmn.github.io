@@ -3,7 +3,7 @@
 
 Objective
 
-I am a recent graduate with a Bachelor's degree in Software Engineering, eager to transition into the field of cybersecurity. My primary interest lies in red teaming, ethical hacking, and penetration testing. I am drawn to cybersecurity because it allows me to utilize my problem-solving skills in a high-stakes environment, think creatively like an attacker, and contribute to making systems more secure. I am excited about the challenge of uncovering vulnerabilities before malicious actors can exploit them, and I am passionate about helping organizations build robust defenses against ever-evolving threats.
+I am a recent Software Engineering graduate eager to start a career in cybersecurity, with a keen interest in red teaming, ethical hacking, and penetration testing. I am passionate about solving complex problems, identifying vulnerabilities, and helping organizations strengthen their defenses against cyber threats.
 
 ## Skills
 | Skill                                         | Associated Project                       |
