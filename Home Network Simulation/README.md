@@ -1,27 +1,32 @@
-Home Network in Cisco Packet Tracer
+Project: Home Network in Cisco Packet Tracer
 
-Project Name: Home Network Simulation
-
-Objective: To create a functional home network using Cisco Packet Tracer, integrating different devices and simulating connectivity for learning purposes.
+Objective:
+The goal of this project was to design and implement a functional home network using Cisco Packet Tracer. The focus was on simulating the setup of different network devices to better understand home networking components, including routing, switching, and wireless connectivity.
 
 Skills Learned:
 
-Network design and topology planning.
+Understanding of basic network architecture and design principles.
 
-Configuration of routers, switches, and end devices.
+Configuration of routers, switches, and wireless access points.
 
-Understanding of IP addressing, DHCP, and basic networking protocols.
+Subnetting and IP address management for efficient network operations.
+
+Troubleshooting and verifying network connectivity between devices.
 
 Tools Used:
 
-Cisco Packet Tracer.
+Cisco Packet Tracer for network simulation.
 
 Steps:
 
-Configured a router, switch, and multiple end devices such as PCs, phones, and printers.
+Designed a network diagram that included a router, switch, and multiple end devices.
 
-Assigned IP addresses and set up DHCP for dynamic addressing.
+Configured each device with an appropriate IP address.
 
-Verified connectivity with ICMP ping and packet analysis.
+Implemented static routing to allow communication between different network segments.
 
-Ref 1: Network Diagram showing the topology of the configured network. (imgsrc: link_to_image)
+Set up a wireless network for wireless devices and verified connectivity across all devices.
+
+Screenshot Reference:
+
+Ref 1: Network Diagram - Overview of the home network layout in Cisco Packet Tracer.
