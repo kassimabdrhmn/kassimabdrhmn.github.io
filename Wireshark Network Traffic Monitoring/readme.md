@@ -1,32 +1,47 @@
-# Wireshark Network Traffic Monitoring
+# Wireshark HTTP Traffic Analysis Project
 
 ## Objective
-The goal of this project was to set up Wireshark to monitor network traffic, capture packets, and analyze data to troubleshoot network issues and identify potential vulnerabilities.
+The objective of this project is to analyze HTTP traffic using Wireshark, identify potential security issues such as unencrypted credentials, suspicious URLs, and unauthorized access attempts, and understand how to mitigate these threats in a network environment.
 
 ## Skills Learned
-- Network traffic analysis and troubleshooting
-- Packet capturing and filtering techniques
-- Understanding of networking protocols like TCP, UDP, and ICMP
+- Analyzing and interpreting HTTP traffic with Wireshark
+- Identifying security vulnerabilities such as unencrypted data
+- Using packet analysis to detect suspicious activities and unauthorized access attempts
+- Reporting findings and proposing solutions for network security issues
 
 ## Tools Used
-- **Wireshark**: For packet capturing and analysis
-- **Network Interface Cards (NIC)**: For traffic monitoring
-- Various **networking protocols** (TCP, UDP, ICMP) to analyze captured traffic
+- **Wireshark**: A network protocol analyzer used to capture and dissect packets
+- **Web Browsers and HTTP-based Services**: Used to generate traffic for analysis
+- **Network Interface Cards (NIC)**: For capturing network traffic
 
 ## Steps
-1. **Install Wireshark**: Download and install Wireshark on your system.
-2. **Configure Network Interface**: Select the network interface to capture traffic from (e.g., Ethernet or Wi-Fi).
-3. **Set Filters**: Apply filters (such as HTTP, DNS, etc.) to focus on specific traffic types.
-4. **Capture and Analyze**: Begin packet capture and analyze the captured packets for issues, anomalies, or network performance.
+### 1. Capture
+- Install and set up Wireshark.
+- Perform various activities such as web browsing, logging into websites, and accessing HTTP-based services to generate traffic.
+- Start capturing packets using Wireshark, focusing on HTTP traffic.
+
+### 2. Analyze
+- Select HTTP packets in Wireshark and analyze their details, including headers, methods, and payloads.
+- Look for unencrypted login credentials, suspicious URLs, unexpected headers, or other anomalies.
+- Pay close attention to communication patterns that could signal unauthorized access or malicious activity.
+
+### 3. Report
+- Export captured packets from Wireshark for further analysis and reporting.
+- Document findings, including any potential security threats or vulnerabilities discovered during the analysis.
+- Propose actions to mitigate the identified risks (e.g., using encryption for credentials, blocking suspicious URLs).
+- Highlight how your findings could improve network security and discuss steps for remediation in a professional environment.
 
 ## Screenshot References
+- **Ref 1**: Wireshark capturing live HTTP traffic showing HTTP request packets.
+- **Ref 2**: Detailed view of HTTP packet analysis, showing headers and potential vulnerabilities.
 
-- **Ref 1**: Wireshark capturing live network traffic showing HTTP request packets.
-- **Ref 2**: Filtered view of DNS queries and responses for domain resolution.
+## Additional Resources
+- If you're new to Wireshark or need more help analyzing traffic, here are some free courses and resources to improve your skills:
+  - **Wireshark for Beginners (Coursera)**: A hands-on course to help you get started with Wireshark.
+  - **Hack the Box**: Offers guided labs to learn advanced network traffic analysis techniques.
+  - **Class Central**: Search for free Wireshark courses from various platforms to learn at your own pace.
 
 ---
 
-### Additional Information
-
-This project can be extended to include advanced packet analysis techniques, such as identifying security threats or performing penetration testing with tools integrated into the Wireshark ecosystem.
-
+### Important Note
+Before engaging in network traffic analysis, ensure you are authorized to intercept network traffic. Unauthorized interception may violate privacy and security laws, so always comply with relevant regulations.
