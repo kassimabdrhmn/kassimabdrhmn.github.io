@@ -1,9 +1,9 @@
-Project: Wireshark Setup
+##Project: Wireshark Setup
 
-Objective:
+##Objective
 The goal of this project was to set up Wireshark for network traffic analysis, enabling the monitoring and capture of network packets to identify vulnerabilities and troubleshoot network issues.
 
-Skills Learned:
+##Skills Learned:
 
 Network traffic analysis
 Packet capturing and filtering
@@ -13,7 +13,8 @@ Tools Used:
 Wireshark
 Network Interface Cards (NIC)
 Various networking protocols (TCP, UDP, ICMP)
-Steps:
+
+##Steps:
 
 Installed Wireshark on the designated machine.
 Configured Wireshark to capture traffic from the appropriate network interface.
@@ -23,3 +24,5 @@ Screenshot Reference:
 
 Ref 1: "Wireshark capturing live network traffic showing HTTP request packets."
 Ref 2: "Filtered view showing DNS queries and responses for domain resolution."
+
+
