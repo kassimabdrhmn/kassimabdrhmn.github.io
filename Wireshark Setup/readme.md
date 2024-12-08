@@ -1,31 +1,25 @@
-Project: SIEM Setup in Microsoft Sentinel
+Project: Wireshark Setup
 
-Objective: To implement a Security Information and Event Management (SIEM) system using Microsoft Sentinel to ingest, monitor, and analyze security-related logs from various sources.
+Objective:
+The goal of this project was to set up Wireshark for network traffic analysis, enabling the monitoring and capture of network packets to identify vulnerabilities and troubleshoot network issues.
 
 Skills Learned:
 
-Configuring and deploying Microsoft Sentinel as a SIEM solution.
-
-Ingesting logs from different data sources such as firewalls, servers, and applications.
-
-Analyzing security alerts and events to identify potential threats.
-
-Creating custom detection rules to enhance security monitoring.
-
+Network traffic analysis
+Packet capturing and filtering
+Troubleshooting network issues
 Tools Used:
 
-Microsoft Sentinel for SIEM setup and analysis.
-
+Wireshark
+Network Interface Cards (NIC)
+Various networking protocols (TCP, UDP, ICMP)
 Steps:
 
-Connected data sources such as Azure resources, firewalls, and Windows event logs to Microsoft Sentinel.
-
-Configured data connectors for log ingestion.
-
-Created and customized workbooks for better visualization of alerts.
-
-Implemented custom queries in KQL (Kusto Query Language) to generate insights.
-
+Installed Wireshark on the designated machine.
+Configured Wireshark to capture traffic from the appropriate network interface.
+Applied filters to focus on specific traffic types (e.g., HTTP, DNS).
+Analyzed captured packets to identify potential issues or unusual behavior.
 Screenshot Reference:
 
-Ref 2: Sentinel Dashboard - Displaying active alerts and custom detection rules.
+Ref 1: "Wireshark capturing live network traffic showing HTTP request packets."
+Ref 2: "Filtered view showing DNS queries and responses for domain resolution."
