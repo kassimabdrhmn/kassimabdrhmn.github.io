@@ -31,6 +31,3 @@ Designed and implemented a simple home network using Cisco Packet Tracer to unde
 1. **Network Diagram showing the connections between the cable modem, wireless router, PC, and laptop.**
    ![Network Diagram](images/ref1.png)
 
-2. **Command prompt output verifying successful pings to `cisco.srv`.**
-   ![Ping Command Output](images/ref2.png)
-
