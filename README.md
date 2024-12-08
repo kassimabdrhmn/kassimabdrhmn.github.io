@@ -7,7 +7,7 @@ I am an ethical hacker and recent Software Engineering graduate eager to start m
 
 ## Projects
 
-- [Wireshark Network Traffic Monitoring Setup](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Wireshark%20Network%20Traffic%20Monitoring%20Setup)
+- [Wireshark Network Traffic Monitoring](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Wireshark%20Network%20Traffic%20Monitoring)
 - [Honeypot Testing Using VMs](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Honeypot%20Deployment%20and%20Analysis)
 - [Threat Intelligence Feed System Integration with Microsoft Sentinel](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/SIEM%20Implementation%20and%20Log%20Monitoring)
 - [Malware Dissection in a Virtual Machine](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Malware%20Analysis%20in%20Isolated%20Environment)
